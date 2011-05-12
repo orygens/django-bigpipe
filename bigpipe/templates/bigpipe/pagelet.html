@@ -1,0 +1,4 @@
+<script type="text/javascript">
+  BigPipe.onPageletArrive({id: '{{ pagelet.id }}', content: '{% filter escapejs %}{{ pagelet.get_html_content }}{% endfilter %}', css: {{ pagelet.get_css_resources|safe }}, js: {{ pagelet.get_js_resources|safe }}, isLast: {{ pagelet.is_last|yesno:"true,false" }}})
+</script>
+
