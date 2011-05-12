@@ -7,7 +7,7 @@ http://www.opensource.org/licenses/mit-license
 Copyright (c) 2011 Adones Cunha adones@orygens.com
 """
 
-from coffin.shortcuts import render_to_string
+from django.template.loader import render_to_string
 from django.template import RequestContext
 from django.http import HttpResponse
 
