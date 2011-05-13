@@ -33,6 +33,7 @@ django-bigpipe are a jquery-bigpipe (https://github.com/orygens/jquery-bigpipe) 
     ],
     packages = find_packages(),
     package_dir = {"django_bigpipe": "django_bigpipe"},
+    include_package_data = True,
 
     install_requires=[
         "django"

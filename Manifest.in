@@ -1,0 +1,2 @@
+recursive-exclude vows *
+recursive-include django_bigpipe *.js *.html

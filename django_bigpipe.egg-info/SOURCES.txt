@@ -1,3 +1,4 @@
+MANIFEST.in
 setup.py
 django_bigpipe/__init__.py
 django_bigpipe/pagelets.py
@@ -7,3 +8,4 @@ django_bigpipe.egg-info/SOURCES.txt
 django_bigpipe.egg-info/dependency_links.txt
 django_bigpipe.egg-info/requires.txt
 django_bigpipe.egg-info/top_level.txt
+django_bigpipe/templates/django_bigpipe/pagelet.html

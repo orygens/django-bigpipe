@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: django-bigpipe
-Version: 0.0.1
+Version: 0.0.3
 Summary: django-bigpipe are a jquery-bigpipe extension to django web framework.
 Home-page: https://github.com/orygens/django-bigpipe
 Author: Orygens
