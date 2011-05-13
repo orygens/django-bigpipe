@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: django-bigpipe
+Version: 0.0.1
+Summary: django-bigpipe are a jquery-bigpipe extension to django web framework.
+Home-page: https://github.com/orygens/django-bigpipe
+Author: Orygens
+Author-email: contato@orygens.com
+License: MIT
+Description: 
+        django-bigpipe are a jquery-bigpipe (https://github.com/orygens/jquery-bigpipe) extension to django web framework.
+        
+Keywords: django web
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2.6
